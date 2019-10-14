@@ -1,4 +1,5 @@
 ## Learning case1
+
 ## Reference:
 [Spring文档](https://spring.io/guides/)
 [Spring Web文档](https://spring.io/guides/gs/serving-web-content/)
